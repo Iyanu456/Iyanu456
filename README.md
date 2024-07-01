@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  👋 Hello World! I'm Iyanuoluwa,
+##  👋 Hello World! I'm Iyanu,
 
 🚀 **Here's what I Do**:
 - **Backend Development**: I'm proficient in Node.js, Express, Python and MongoDB.
