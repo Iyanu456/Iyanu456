@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Iyanu456/Iyanu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##  👋 Hi there! I'm Iyanuoluwa,
+
+🚀 **Here's what I Do**:
+- **Backend Development**: I'm proficient in Node.js, Express, Python and MongoDB.
+- **Frontend Development**: I'm experienced with React, JavaScript, HTML, and CSS.
+- **Full-Stack Projects**: I build robust web applications from scratch.
+
+🌟 **Some of my skills are**:
+- JavaScript, TypeScript, Python, C
+- Node.js, Express.js, Flask
+- React
+- MongoDB, MySQL
+- Git, GitHub
+
+📚 **Learning**: Always expanding my knowledge. I'm currently diving deeper into AI and DevOps.
+
+💼 **Professional**: I work as a Freelance Web Developer. I'm open to job opportunities!
+
+🌐 **Connect with Me**:
+- [LinkedIn](https://www.linkedin.com/in/iyanuoluwa-oyerinde)
+- [Twitter](https://twitter.com/)
+- [Personal Website](https://iyanu.vercel.app)
+- [Email](https://gmailto:oyerindei13@gmail.com)
+
+💬 **Let's Collaborate**: I'm always open to interesting projects and collaborations. Feel free to reach out!
