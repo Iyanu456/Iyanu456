@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - **Backend Development**: I'm proficient in Node.js, Express, Python and MongoDB.
 - **Frontend Development**: I'm experienced with React, JavaScript, HTML, and CSS.
 - **Full-Stack Projects**: I build robust web applications from scratch.
+  
 
 🌟 **Some of my skills are**:
 - JavaScript, TypeScript, Python, C
@@ -27,9 +28,9 @@ Here are some ideas to get you started:
 - MongoDB, MySQL
 - Git, GitHub
 
-📚 **Learning**: Always expanding my knowledge. I'm currently diving deeper into AI and DevOps.
+💼 I currently work as a Freelance Web Developer and I'm open to job opportunities!
 
-💼 **Professional**: I work as a Freelance Web Developer. I'm open to job opportunities!
+🌱 I’m currently diving deeper into AI and DevOps.
 
 🌐 **Connect with Me**:
 - [LinkedIn](https://www.linkedin.com/in/iyanuoluwa-oyerinde)
