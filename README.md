@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 - MongoDB, MySQL
 - Git, GitHub
 
-💼 I currently work as a Freelance Web Developer and I'm open to job opportunities!
-
 🌱 I’m currently diving deeper into AI and DevOps.
 
 🌐 **Connect with Me**:
